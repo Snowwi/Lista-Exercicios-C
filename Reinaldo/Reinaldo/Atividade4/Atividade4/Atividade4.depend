@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1744236909 source:c:\users\reina\onedrive\desktop\reinaldo\atividade4\atividade4\exer1.c
+	<stdio.h>
+	<stdlib.h>
+
+1744161346 source:c:\users\reina\onedrive\desktop\reinaldo\atividade4\atividade4\exer2.c
+	<stdio.h>
+	<stdlib.h>
+
+1744161326 source:c:\users\reina\onedrive\desktop\reinaldo\atividade4\atividade4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
